@@ -5,6 +5,8 @@
 
 This hybrid Kubernetes-oriented meeting is  organized for a range of purposes. First, knowing that there are various toxicology projects with similar goals of creating Kubernetes-like cluster platforms, we would like to bring people who work with Kubernetes together so that they can introduce them to each other and create possibilities for them to collaborate in the future. Attendees will have an environment to share their experiences and evaluate different approaches employed in different projects. Furthermore, we would like to discuss how support groups like SURF (NL), EOSC, and the ELIXIR computer platform can support such developments, and ideally develop plans for helping each other. 
 
+This workshop has received funding from the European Union's Horizon 2020 research and innovation programme “EOSC-Life—Providing an open collaborative space for digital biology in Europe” under grant agreement No. [824087](https://doi.org/10.3030/824087).
+
 ## Why
 
 VHP4Safety is a Dutch research project that aims to build a Virtual Human Platform (VHP) to estimate the risks after being exposed to chemicals and pharmaceuticals without using laboratory animals. As the Department of Bioinformatics at Maastricht University, we participate in this project in various work packages. One work package particularly focuses on creating an online Kubernetes cluster on physical servers to form the computer infrastructure of the platform. 
