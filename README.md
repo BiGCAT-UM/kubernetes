@@ -41,7 +41,8 @@ Sign up via [this form](https://docs.google.com/forms/d/e/1FAIpQLScv13XL3qB7SQ7h
   * Describing themes for working groups and forming groups
   * Setting the goals for the afternoon
 * **12:30 - 13:30** Lunch
-* **13:30 - 15:00** Collaborative work, possibly in breakout sessions
+* **13:30 - 13:45** ELIXIR-DE presentation
+* **13:45 - 15:00** Collaborative work, possibly in breakout sessions
 * **15:00 - 15:30** Coffee break
 * **15:30 - 17:00** Wrapping up the work and discussing the results
 
